@@ -1,0 +1,12 @@
+h1 {text-align:center; text-decoration: underline;}
+div.menu {text-align:center; text-decoration:underline; color:#00ff00;}
+	footer {text-align:center; text-decoration:underline; color:#0000ff;}
+	p {text-align:center;}
+	input.small {width:50px;}
+	input.padd {padding: 10px 10px 10px 10px;}
+	
+	/* This is a single-line comment */
+	/* This is
+	a multi-line
+	comment */
+	/*>I dont like CSS:P
